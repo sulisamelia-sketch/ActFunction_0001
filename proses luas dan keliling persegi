@@ -1,0 +1,9 @@
+int luasPesergi (int a, int b)
+{
+    return a * b;
+}
+
+int kelilingPesergi(int a, int b)
+{
+    return 2 * (a + b);
+}
