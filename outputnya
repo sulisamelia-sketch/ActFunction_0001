@@ -1,0 +1,18 @@
+void output ()
+{
+    cout << "Luasnya : " << luasPersegi
+    (Panjang, lebar) << endl;
+
+
+}
+
+int main()
+{
+    int main()
+
+    input();
+    output();
+    cout << "Kelilingnya : " << kelilingPersegi
+    (panjang, lebar)
+
+}
